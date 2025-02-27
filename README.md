@@ -1,2 +1,2 @@
-# .github
-An assesment platform
+# Sashakt
+An assessment platform
